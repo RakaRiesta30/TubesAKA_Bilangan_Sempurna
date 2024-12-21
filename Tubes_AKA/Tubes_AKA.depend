@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1734790011 source:d:\coding\c++\tubes_aka\aka.cpp
+	"AKA.h"
+
+1734789983 d:\coding\c++\tubes_aka\aka.h
+	<iostream>
+
+1734791357 source:d:\coding\c++\tubes_aka\main.cpp
+	"AKA.h"
+	<chrono>
+
